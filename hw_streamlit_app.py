@@ -6,7 +6,7 @@ number = 0
 
 #check if num <100
 
-if (number <= 100):
+while number <= 100:
   st.write(number)
-  number+1
+  number =number+1
  
